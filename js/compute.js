@@ -43,6 +43,3 @@ function printOut(out) {
     $('#recipe').append(out);
 }
 
-function addMember(member) {
-    return  parseInt(member);
-}
